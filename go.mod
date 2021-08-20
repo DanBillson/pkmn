@@ -1,4 +1,4 @@
-module github.com/danbillson/pkmn
+module github.com/DanBillson/pkmn
 
 go 1.16
 
